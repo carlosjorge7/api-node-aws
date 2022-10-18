@@ -8,3 +8,5 @@ y ngnix (sudo apt install nginx)
 Info --> sudo ufw app list --> Conf: sudo ufw allow 'Nginx HTTP'
 7. Comprobamos es status del servidor nginx: systemctl status nginx
 8. Vamos a la IP en el navegador --> Welcome to server
+9. Subimos el codigo a gitHub y lo clonamos en nuestra mv de aws. cd ./proyect_name and npm i
+10. ls -ls
